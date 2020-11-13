@@ -568,8 +568,9 @@ section {
 # About
 --------------------------------------------------------------*/
 .about h2 {
-  padding-left: 50px;
-  font-weight: 700;
+  text-align: center;
+  padding-left: 5px;
+  font-weight: 1000;
   font-size: 32px;
   color: #5f687b;
 }
