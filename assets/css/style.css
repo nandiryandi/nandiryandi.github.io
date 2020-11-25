@@ -57,7 +57,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #fff;
   transition: all 0.5s;
   z-index: 997;
-  padding: 12px 0;
+  padding: 16px 0;
   box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.1);
 }
 
@@ -652,7 +652,7 @@ section {
 .services .icon-box h4 {
   font-weight: 700;
   margin-bottom: 15px;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 .services .icon-box h4 a {
